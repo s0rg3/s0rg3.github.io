@@ -21,6 +21,7 @@ Relevant Coursework:
 - Information Assurance
 - Security Scripting
 - Object Oriented Programming
+- Web Design
 - Big Data Analytics
 - Practical Cryptography
 - Digital Forensics and Cyber Crime
