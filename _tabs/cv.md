@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: CV
 icon: fas fa-file
-order: 2
+order: 5
 ---
 
 ## Education

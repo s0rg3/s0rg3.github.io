@@ -7,7 +7,7 @@ categories: [Certifications]
 tags: [certs, it, linux, networking,]
 ---
 
-# CERT ACQUIRED
+## CERT ACQUIRED
 
 Today I acquired the CompTIA Linux+ Certification! This certification was a great demonstration of my skills Linux such as installation, configuration, security troubleshooting, and command-line operations.
 
@@ -21,12 +21,12 @@ For the test you are asked to complete approximately 70 multiple choise question
 
 ## Verify
 
-You can verify my completion of this certification by going to [CompTIA](http://verify.comptia.org) and entering my Certification Code: **FDYGEYZSWJEQYY72**
+You can verify my completion of this certification by going to [CompTIA](https://verify.comptia.org) and entering my Certification Code: **FDYGEYZSWJEQYY72**
 
 ![Desktop View](assets/img/content/comptia/linux_plus_cert.png){: w="800" h="600" }
 *Official Cert*
 
-Link: [http://verify.comptia.org](http://verify.comptia.org)  
+Link: [https://verify.comptia.org](http://verify.comptia.org)  
 Certification Code: **FDYGEYZSWJEQYY72**
 
 ## Thanks
