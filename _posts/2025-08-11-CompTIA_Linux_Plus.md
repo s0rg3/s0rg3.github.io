@@ -26,7 +26,7 @@ You can verify my completion of this certification by going to [CompTIA](https:/
 ![Desktop View](assets/img/content/comptia/linux_plus_cert.png){: w="800" h="600" }
 *Official Cert*
 
-Link: [https://verify.comptia.org](http://verify.comptia.org)  
+Link: [https://verify.comptia.org](https://verify.comptia.org)  
 Certification Code: **FDYGEYZSWJEQYY72**
 
 ## Thanks

@@ -11,7 +11,7 @@ I'm Nick. I am a recent college grad from SUU with a Bachelors Degree in Cyberse
 ## Contact
 
 **E-MAIL**  
-<a href="mailto:nick @sorge.io">nick@sorge.io</a>  
+<a href="mailto:nick@sorge.io">nick@sorge.io</a>  
 
 **X**  
 [https://x.com/s0rg3](https://x.com/s0rg3)  
