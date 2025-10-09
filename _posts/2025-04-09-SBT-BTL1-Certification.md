@@ -7,12 +7,31 @@ categories: [Certifications]
 tags: [certs, blue team,]
 ---
 
-# [STATUS] = **PASSED**
+# CERT ACQUIRED
 
-Today I acquired the Security Blue Team: Blue Team Level 1 Certification! It took me a total of 8 hours out of the 24 alloted. This certification was a demonstration of my skills in Threat Intelligence, Digital Forensics and Incident Response, Security Incident and Event Management, and Phishing Analysis.
+Today I acquired the Security Blue Team: Blue Team Level 1 Certification! This certification was a great demonstration of my skills in Blue Team activities such as Threat Intelligence, Digital Forensics and Incident Response, Security Incident and Event Management, and Phishing Analysis.
 
 ## Study / Prep
 
-Security Blue Team offers their own comprehensive training regemin, which I felt in addition to my Cybersecurity Bachelors education, provided me with exactly the skills I needed to perform in the realistic test environment. This includes a brush up on security fundamentals and then 5 domains of blue team activities, which are Threat Intelligence, Digital Forensics and Incident Response, Security Incident and Event Management, and Phishing Analysis. Each domain has a good mixture of classroom education and lab practicals to ensure you are well versed in the tools and methodologies necessary to succeed.
+Security Blue Team offers their own comprehensive training regemin for this cert, which I felt in addition to my Cybersecurity Bachelors education, provided me with exactly the skills I needed to perform in the realistic test environment. This includes a brush up on security fundamentals and then 5 domains relating to Blue Team activities, which are Threat Intelligence, Digital Forensics and Incident Response, Security Incident and Event Management, and Phishing Analysis. Each domain has a good mixture of classroom education and lab practicals to ensure you are well versed in the tools and methodologies necessary to succeed.
 
-# 
+## Test Day
+
+For the test you are thrown into a simulated corporate environment and asked to complete 20 tasks within an allotted 24 hour time frame. I was confident going in that I was well prepared and ready to ace this cert. I diligently completed the tasks assigned to me using different SIEM and DFIR tools. After I was confident the tasks were handled, I submitted my results. I was pleased to find out I recieved 100% on my first attempt and would recieve the coveted gold challenge coin from Security Blue Team!
+
+![Desktop View](assets/img/content/sbt/btl1_100.PNG){: w="850" h="200" }
+*100%!*
+
+## Verify
+
+You can verify my completion of this certification by going to [Security Blue Team](https://securityblue.team/verify) and entering my Certification ID: **753190999**
+
+![Desktop View](assets/img/content/sbt/btl1_cert.PNG){: w="800" h="400" }
+*Official Cert*
+
+Link: [https://securityblue.team/verify](https://securityblue.team/verify)  
+Certification ID: **753190999**
+
+## Thanks
+
+Thank you [@SecBlueTeam](https://x.com/SecBlueTeam) for the great training and exam. I am happy with what I learned and achieved through your program and look forward to applying the skills I acquired to real world applications.
