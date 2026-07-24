@@ -1,6 +1,6 @@
 ---
 title: CompTIA Linux+ Certification
-description: "I passed the test to recieve my CompTIA Linux+ Certification."
+description: "I passed the test to receive my CompTIA Linux+ Certification."
 author: <author_id>
 date: 2025-08-11 18:12:01 -0600
 categories: [Certifications]
@@ -17,7 +17,7 @@ I relied on my strong background in Linux from personal use and my college educa
 
 ## Test Day
 
-For the test you are asked to complete approximately 70 multiple choise questions and a few practical questions thrown in as well. I was confident going in that I was well prepared and ready to ace this cert given my background an study routine. After about 2 hours I submitted my answers and was ecstatic to see I passed the exam!
+For the test you are asked to complete approximately 70 multiple choice questions and a few practical questions thrown in as well. I was confident going in that I was well prepared and ready to ace this cert given my background an study routine. After about 2 hours I submitted my answers and was ecstatic to see I passed the exam!
 
 ## Verify
 
